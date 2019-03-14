@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="32451" started-at="2019-01-29T09:19:35Z" finished-at="2019-01-29T09:20:07Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="32451" started-at="2019-01-29T09:19:35Z" finished-at="2019-01-29T09:20:07Z">
+      <class name="TestList1.TestCase3">
+        <test-method status="PASS" signature="AddProductsToBasketTestCase()[pri:0, instance:TestList1.TestCase3@dfd3711]" name="AddProductsToBasketTestCase" duration-ms="3205" started-at="2019-01-29T09:19:45Z" finished-at="2019-01-29T09:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProductsToBasketTestCase -->
+      </class> <!-- TestList1.TestCase3 -->
+      <class name="TestList1.TestCase4">
+        <test-method status="PASS" signature="CompareTwoProductsTestCase()[pri:0, instance:TestList1.TestCase4@42d3bd8b]" name="CompareTwoProductsTestCase" duration-ms="3712" started-at="2019-01-29T09:19:48Z" finished-at="2019-01-29T09:19:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompareTwoProductsTestCase -->
+      </class> <!-- TestList1.TestCase4 -->
+      <class name="TestList1.TestCase5">
+        <test-method status="PASS" signature="RegisterAndAddWishList()[pri:0, instance:TestList1.TestCase5@26ba2a48]" name="RegisterAndAddWishList" duration-ms="5360" started-at="2019-01-29T09:19:52Z" finished-at="2019-01-29T09:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterAndAddWishList -->
+        <test-method status="PASS" signature="LoginAndBuyWishList()[pri:1, instance:TestList1.TestCase5@26ba2a48]" name="LoginAndBuyWishList" duration-ms="10016" started-at="2019-01-29T09:19:57Z" finished-at="2019-01-29T09:20:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAndBuyWishList -->
+      </class> <!-- TestList1.TestCase5 -->
+      <class name="TestList1.TestCase1">
+        <test-method status="PASS" signature="SortMobilesByNameTestCase()[pri:0, instance:TestList1.TestCase1@2ed94a8b]" name="SortMobilesByNameTestCase" duration-ms="7169" started-at="2019-01-29T09:19:35Z" finished-at="2019-01-29T09:19:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortMobilesByNameTestCase -->
+      </class> <!-- TestList1.TestCase1 -->
+      <class name="TestList1.TestCase2">
+        <test-method status="PASS" signature="VerifyPricesPdpPlpTestCase()[pri:0, instance:TestList1.TestCase2@38082d64]" name="VerifyPricesPdpPlpTestCase" duration-ms="2962" started-at="2019-01-29T09:19:42Z" finished-at="2019-01-29T09:19:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPricesPdpPlpTestCase -->
+      </class> <!-- TestList1.TestCase2 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
